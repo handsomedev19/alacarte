@@ -1,0 +1,65 @@
+.uikit-header {
+    background: #F9FAFB;
+    padding: 100px 120px;
+}
+
+.uikit-header-subject {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 29px;
+    /* or 181% */
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+    /* YemekPanel/Text/4 */
+    color: #B1B7C2;
+    padding: 3px 0px;
+}
+
+.uikit-header-title {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 29px;
+    /* identical to box height, or 48% */
+    display: flex;
+    align-items: center;
+    /* YemekPanel/Text/1 */
+    color: #343B4A;
+    padding: 60px 0px;
+}
+
+.uikit-body {
+    padding: 60px 120px 250px 60px;
+}
+
+.uikit-body-content {
+    /* YemekPanel/BG/4 */
+    background: #F9FAFB;
+    /* YemekPanel/BG/4 */
+    border: 1px dashed #F9FAFB;
+    box-sizing: border-box;
+    border-radius: 15px;
+    padding: 60px;
+    /* temporary property */
+    min-height: 1600px;
+}
+
+.uikit-alert-section {
+    padding: 21px 0px;
+}
+.uikit-alert-section:first-child {
+    padding-top: 0px;
+}
+.uikit-alert-section:last-child {
+    padding-bottom: 0px;
+}
+
+/* UI kit alert */
+.border {
+    border: 1px solid green;
+}
+
