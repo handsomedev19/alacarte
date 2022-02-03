@@ -2,5 +2,5 @@
 Frontend work using Angular 13
 
 # preview
-![Image](src/assets/images/ad1.JPG?raw=true "Title")
+![Admin Create Product](./src/assets/image/ad1.PNG)
 
