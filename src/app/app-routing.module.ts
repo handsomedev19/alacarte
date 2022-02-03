@@ -8,11 +8,11 @@ const children: Routes = [
     loadChildren: () =>
       import('./uikit/uikit.module').then((m) => m.UikitModule),
   },
-  // {
-  //   path: '',
-  //   loadChildren: () =>
-  //     import('./dashboard/dashboard.module').then((m) => m.DashboardModule),
-  // },
+  {
+    path: 'dashboard',
+    loadChildren: () =>
+      import('./dashboard/dashboard.module').then((m) => m.DashboardModule),
+  },
   {
     path: '',
     loadChildren: () => import('./auth/auth.module').then((m) => m.AuthModule),

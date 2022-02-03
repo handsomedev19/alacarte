@@ -2,5 +2,7 @@
 Frontend work using Angular 13
 
 # preview
-![Admin Create Product](./src/assets/images/ad1.JPG)
+![Admin Create Product](./readmeImg/readmeImg1.PNG)
+
+![Admin Create Product](./readmeImg/readmeImg2.PNG)
 
