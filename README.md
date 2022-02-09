@@ -1,8 +1,13 @@
 # alacarte
 Frontend work using Angular 13
 
-# preview
-![Admin Create Product](./readmeImg/readmeImg1.PNG)
+## Lazy loading
+## Reusable component
+## Standard code pattern
+## pixel-perfect
 
-![Admin Create Product](./readmeImg/readmeImg2.PNG)
+# preview
+![Admin Create Product](./readmeImg/readmeImg1_1.PNG)
+
+![Admin Create Product](./readmeImg/readmeImg2_1.PNG)
 
